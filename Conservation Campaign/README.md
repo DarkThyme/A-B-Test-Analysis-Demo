@@ -26,7 +26,7 @@ install.packages(c("dplyr", "ggplot2", "readr", "knitr", "scales", "gridExtra", 
 
 ### Python
 Install the following Python packages:
-'''r
+```bash
 pip install pandas numpy matplotlib seaborn scipy
 
 ## How to Interpret Results
